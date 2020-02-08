@@ -2,7 +2,10 @@
 Week One: 
   -Finished syllabus for class and worked on literature review
   
- Week Two:
+ Week Two-Three:
   -Began installing ROS 2 
     -TODO: Need to install onto school laptop
+    
+ Week Four: 
+ 
    
