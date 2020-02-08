@@ -16,4 +16,8 @@ Week One:
  
  -TODO: Integrate the software into a ROS environment
  
+ Plan for next week:
+  
+ -Begin working on project. Get robot to move and integrate mapping systems. 
+ 
    
