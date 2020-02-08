@@ -13,6 +13,7 @@ Week One:
  -Worked on getting the proper output for later use
  
  -TODO: Add more faces to the dataset for future testing
+ 
  -TODO: Integrate the software into a ROS environment
  
    
