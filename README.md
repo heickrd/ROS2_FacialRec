@@ -4,6 +4,7 @@ Week One:
   
  Week Two-Three:
   -Began installing ROS 2 
+  -Worked through ROS 2 tutorials
     -TODO: Need to install ROS onto school laptop
     
  Week Four: 
