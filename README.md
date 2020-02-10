@@ -9,15 +9,11 @@ Week One:
     
  Week Four: 
  -Installed Facial Recognition library
- 
  -Added myself to the dataset and trained the software on my face.
- 
  -Tested the software at various angles, distances, lightings, etc. 
- 
  -Worked on getting the proper output for later use
  -Recognition Library Found here: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
- 
- -TODO: Add more faces to the dataset for future testing
+ -Added more faces to the dataset
  
  -TODO: Integrate the software into a ROS environment
  
